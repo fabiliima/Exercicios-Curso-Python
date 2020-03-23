@@ -1,1 +1,6 @@
-Alguns do exercícios do curso de Python: Essencial - 55 horas. Realizado na plataforma da Udemy nos meses de fevereiro e março de 2020
+# Exercicios-Curso-Python PT1
+
+1. Faça um programa que leia 2 notas, verifica-se as notas são válidas e imprime a média, uma nota válida, é um valor entre 0 e 10, caso contrário informar erro ao usuário e finalizar o programa.
+
+[Código do exercício 1]
+(exercicio_1.py)
