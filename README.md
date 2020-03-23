@@ -19,7 +19,7 @@ if dia >= 1 and dia <=7:
 else:
     print('Número inválido.')
     
-# Faça um programa que leia um inteiro entre 1 e 12, e imprima o mês correspondente a este número.Isto é 1 = janeiro, 2 = fevereiro e assim por diante.
+# Faça um programa que leia um número inteiro entre 1 e 12, e imprima o mês correspondente a este número.Isto é 1 = janeiro, 2 = fevereiro e assim por diante.
 
 meses = ('janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro',
        # 11
