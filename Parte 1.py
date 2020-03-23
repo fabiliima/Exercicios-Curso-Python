@@ -1,14 +1,13 @@
 # Exercicios-Curso-Python PT1
 
-1. Faça um programa que leia 2 notas, verifica-se as notas são válidas e imprime a média, uma nota válida, é um valor entre 0 e 10, caso contrário informar erro ao usuário e finalizar o programa.
-[nota_1 = float(input('Informe a primeira nota: '))
+# Faça um programa que leia 2 notas, verifica-se as notas são válidas e imprime a média, uma nota válida, é um valor entre 0 e 10, caso contrário informar erro ao usuário e finalizar o programa.
+nota_1 = float(input('Informe a primeira nota: '))
 nota_2 = float(input('Informe a segunda nota: '))
 
 if nota_1 and nota_2 > 0 < 10:
     print(f'A média é: {(nota_1 + nota_2) / 2:.2f}')
 else:
     print('A nota deve ser entre 0 e 10.')]
-(exercicio_1.py)
 
 # Faça um programa que leia um inteiro entre 1 e 7, e imprima o dia da semana correspondente a este número.Isto é 1 = domingo, 2 = segunda-feira e assim por diante.
 
