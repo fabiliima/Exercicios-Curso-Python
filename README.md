@@ -154,7 +154,7 @@ Ou ter pelo menos 60 anos e trabalhado no mínimo 25 anos;
 
 [Resposta](exercicio_37.py)
 
-38. Faça um programa que receba do usuário um arquivo .txt. Com este arquivo, crie outro substituindo as vogais po "*".
+38. Faça um programa que receba do usuário um arquivo .txt. Com este arquivo, crie outro substituindo as vogais por "*".
 
 [Resposta](exercicio_38.py)
 
