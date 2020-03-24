@@ -42,3 +42,37 @@ Ou ter pelo menos 60 anos e trabalhado no mínimo 25 anos;
 10. Faça um programa que calcule o IMC e mostre sua classificação.
 
 [Resposta](exercicio_10.py)
+
+11. Faça um programa que calcule a área de um triângulo, cuja base e altura são fornecidas pelo usuário. Esse programa não pode permitir a entrada de dados inválidos, ou seja, medidas menores ou iguais a 0.
+[Resposta](exercicio_11.py)
+
+12. Faça um programa que leia um conjunto de valores,um de cada vez e escreva para cada valor: o quadrado, o cubo e a raiz quadrada. Finalize a entrada de dados com um valor negativo ou 0.
+[Resposta](exercicio_12.py)
+
+13. Faça um programa que leia um número indeterminado de idades (pare quando for informado a idade 0) e calcule a média do grupo.
+
+[Resposta](exercicio_13.py)
+
+14. Faça um programa que converta uma velocidade em km/h por m/s e vice-versa. O usuário poderá fazer quantas conversões desejar, sendo que o programa só será finalizado quando a opção de finalizar for escolhida.
+
+[Resposta](exercicio_14.py)
+
+15. Faça um programa que apresente um menu de opções: soma, subtração, divisão, multiplicação e sair. O programa deve possibilitar ao usuário a escolha da operação desejada, a exibição do resultado, e a volta ao menu de opções. O programa só termina quando for escolhida a opção de saída.
+
+[Resposta](exercicio_15.py)
+
+16. O funcionário Carlos, tem um colega chamado João que recebe um terço do seu salário. Carlos aplica seu salário integralmente na poupança a um rendimento de 2% ao mês. João aplica seu salário integralmente no fundo de renda fixa a um rendimento de 5% ao mês. Construa um programa que deverá calcular e mostrar a quantidade de meses necessários para que o valor pertencente ao João, iguale ou ultrapasse o valor pertencente ao Carlos.
+
+[Resposta](exercicio_16.py)
+
+17. Chico tem 1.50 e cresce 2 centímetros por ano, enquanto Zé tem 1.10 e cresce 3 centímetros por ano. Escreva um programa que calcule quantos anos serão necessários para que Zé seja maior que Chico.
+
+[Resposta](exercicio_17.py)
+
+18. Escreva um programa que leia o número de habitantes de uma cidade, o valor do kwh, e para cada habitante entre com os seguintes dados: consumo do mês, e o código do consumidor(residencial, comercial e industrial). No final imprima, o maior, o menor e a média do consumo por habitante, e por fim o total do consumo por categoria.
+
+[Resposta](exercicio_18.py)
+
+19. Faça um programa que leia diversos números, calcule e mostre: a soma, a quantidade, a média, o maior, o menor, e a média dos números pares. Finalize a entrada de dados quando o usuário digitar 0.
+
+[Resposta](exercicio_19.py)
