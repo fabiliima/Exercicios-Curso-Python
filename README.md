@@ -141,3 +141,29 @@ Ou ter pelo menos 60 anos e trabalhado no mínimo 25 anos;
 34. Faça uma função que receba duas strings e retorne a intercalação letra a letra da primeira com a segunda string. A string intercalada deve ser retornada na primeira string.
 
 [Resposta](exercicio_34.py)
+
+35. Escreva um programa que: crie um arquivo .txt, permita que o usuário grave dados neste arquivo, até que o usuário digite 0, feche o arquivo.
+
+[Resposta](exercicio_35.py)
+
+36. Faça um programa que receba do usuário um arquivo.txt e mostre quantas letras são vogais e quantas são consoantes.
+
+[Resposta](exercicio_36.py)
+
+37. Faça um programa que receba do usuário um arquivo .txt e um caracter. Mostre quantas vezes aquele caracter aparece no arquivo.
+
+[Resposta](exercicio_37.py)
+
+38. Faça um programa que receba do usuário um arquivo .txt. Com este arquivo, crie outro substituindo as vogais po "*".
+
+[Resposta](exercicio_38.py)
+
+39. Faça um programa que receba do usuário um arquivo .txt, contendo o nome da cidade e o número de habitantes. Crie um segundo arquivo .txt, com a cidade mais populosa.
+
+[Resposta](exercicio_39.py)
+
+40. Faça um programa que receba do usuário um arquivo .txt, informando nome e telefone de diversas pessoas. O programa finaliza quando o usuário digitar 0.
+
+[Resposta](exercicio_40.py)
+
+
