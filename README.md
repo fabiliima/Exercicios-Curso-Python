@@ -23,7 +23,7 @@ Ou ter pelo menos 60 anos e trabalhado no mínimo 25 anos;
  
  [Resposta](exercicio_05.py)
  
- 6. Faça um programa que determine se um ano é bissexto ou não. Um ano é bissexto se for divisível por 400 ou por 4 e não for divisível por 100
+ 6. Faça um programa que dado a idade de um nadador, classifique-o em categorias.
  
  [Resposta](exercicio_06.py)
  
@@ -39,6 +39,6 @@ Ou ter pelo menos 60 anos e trabalhado no mínimo 25 anos;
 
 [Resposta](exercicio_09.py)
 
-10. O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica. Leia o custo de fábrica e escreva o custo ao consumidor.
+10. Faça um programa que calcule o IMC e mostre sua classificação.
 
 [Resposta](exercicio_10.py)
