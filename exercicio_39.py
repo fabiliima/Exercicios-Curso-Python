@@ -9,7 +9,7 @@ while True:
 with open('arq.txt', 'w', encoding='utf-8') as arquivo1:
     arquivo1.write(str(cidade_habitantes))
 
-maximo = max(cidade_habitantes.items(), key=lambda k: k[1])  # pega chave e valor máximo
+maximo = max(cidade_habitantes.items(), key=lambda k: k[1])  # chave e valor máximo
 
 with open('arq2.txt', 'w', encoding='utf-8') as arquivo2:
     arquivo2.write(str(maximo))
