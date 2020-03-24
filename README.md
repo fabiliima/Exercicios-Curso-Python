@@ -102,6 +102,42 @@ Ou ter pelo menos 60 anos e trabalhado no mínimo 25 anos;
     
 [Resposta](exercicio_24.py)
 
+25. Faça uma função que receba uma temperaturam em graus Celsius e retorne convertida em Fahrenheit. A fórmula de conversão é: F = C * (9.0/5.0) + 32.0.
 
+[Resposta](exercicio_25.py)
 
+26. Faça uma função que receba três notas de um aluno e uma letra. Se a letra for A, calcular a média aritmética, se a nota for P, calcular a média ponderada, com pesos 5, 3 e 2.
 
+[Resposta](exercicio_26.py)
+
+27. Faça uma função que receba dois valores e um símbolo, de acordo com a operação matemática que o usuário deeja realizar (+, -, *, /)
+
+[Resposta](exercicio_27.py)
+
+28. Faça uma função que receba dois números inteiros e retorne a soma dos N números existentes entre eles.
+
+[Resposta](exercicio_28.py)
+
+29. Faça uma função que gere um triângulo lateral de altura 2*n-1 e n largura.
+
+[Resposta](exercicio_29.py)
+
+30. Faça uma função que receba um número inteiro e positivo n e retorne a soma de 1 até n.
+
+[Resposta](exercicio_30.py)
+
+31. Faça uma função que receba um número N e retorne a soma dos algarismo de N.
+
+[Resposta](exercicio_31.py)
+
+32. Faça uma função que preencha uma lista, com números sem repetição.
+
+[Resposta](exercicio_32.py)
+
+33. Faça uma função que compare e retorne verdadeiro se uma string é anagrama de outra. Caso contrário, retorne falso.
+
+[Resposta](exercicio_33.py)
+
+34. Faça uma função que receba duas strings e retorne a intercalação letra a letra da primeira com a segunda string. A string intercalada deve ser retornada na primeira string.
+
+[Resposta](exercicio_34.py)
