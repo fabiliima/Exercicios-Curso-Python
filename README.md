@@ -77,42 +77,34 @@ Ou ter pelo menos 60 anos e trabalhado no mínimo 25 anos;
 
 [Resposta](exercicio_19.py)
 
-20. Leia uma lista com 10 números inteiros. Escreva a lista, eliminando elementos repetidos.
+20. Faça uma programa que receba do usuário duas listas, A e B com 10 números inteiros cada. Crie uma nova lista C, calculando C = A -B. Imprima a lista C.
 
 [Resposta](exercicio_20.py)
 
-21. Leia uma lista com 10 números. E atribua valor 0 para todos elementos que possuem valor negativo.
+21. Faça um programa que leia dez conjuntos de dois valores. O primeiro representando o código do aluno e o segundo sua altura. Imprima o código e altura do aluno mais alto e mais baixo.
 
 [Resposta](exercicio_21.py)
 
-22. Faça uma programa que receba do usuário duas listas, A e B com 10 números inteiros cada. Crie uma nova lista C, calculando C = A -B. Imprima a lista C.
+22. Faça um programa que receba 6 números inteiros e imprima: os números pares, a soma dos números pares, os números ímpares, a quantidade de números ímpares.
 
 [Resposta](exercicio_22.py)
 
-23. Faça um programa que leia dez conjuntos de dois valores. O primeiro representando o código do aluno e o segundo sua altura. Imprima o código e altura do aluno mais alto e mais baixo.
+23. Faça um programa que leis duas lista com 10 elementos. Crie uma lista que seja a intersecção entre as duas lista anteriores. Ou seja, que contém apenas os números que estão em ambas as listas. Não pode conter número repetido.
 
 [Resposta](exercicio_23.py)
 
-24. Faça um programa que receba 6 números inteiros e imprima: os números pares, a soma dos números pares, os números ímpares, a quantidade de números ímpares.
+24. Faça um programa que leis duas lista com 10 elementos. Crie uma lista que seja a união entre as duas lista anteriores. Ou seja, que contém os números de ambas as listas. Não pode conter número repetido.
 
 [Resposta](exercicio_24.py)
 
-25. Faça um programa que leis duas lista com 10 elementos. Crie uma lista que seja a intersecção entre as duas lista anteriores. Ou seja, que contém apenas os números que estão em ambas as listas. Não pode conter número repetido.
-
-[Resposta](exercicio_25.py)
-
-26. Faça um programa que leis duas lista com 10 elementos. Crie uma lista que seja a união entre as duas lista anteriores. Ou seja, que contém os números de ambas as listas. Não pode conter número repetido.
-
-[Resposta](exercicio_26.py)
-
-27. Leia dus lista de inteiros (x e y), com 5 elementos cada. Calcule e mostre as listas resultantes, em cada caso:
+25. Leia dus lista de inteiros (x e y), com 5 elementos cada. Calcule e mostre as listas resultantes, em cada caso:
     - Soma de cada elemento de x com a mesma posição de y;
     - Multiplicação de cada elemento de x com a mesma posição de y;
     - Todos os elementos de x que não estão em y;
     - Apenas os elementos que aparecem nas duas listas;
     - Todos os elementos de x e todos de y, desde que não se repitam.
     
-[Resposta](exercicio_27.py)
+[Resposta](exercicio_25.py)
 
 
 
