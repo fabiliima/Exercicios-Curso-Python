@@ -1,7 +1,5 @@
-meses = ('janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro',
-       # 11
-       'dezembro')
-mes = int(input('Informe um número de 1 á 12: '))
+meses = ('janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro')
+mes = int(input('Informe um número entre 1 e 12: '))
 
 if mes >= 1 and mes <= 12:
     print(
